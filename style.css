@@ -159,6 +159,7 @@ body{
    }
    .vcard{
       width: auto;
+      margin-top: -60px;
       background: #221f2e;
       box-shadow: none;
    }
